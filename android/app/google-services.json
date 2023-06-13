@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "876036184844",
+    "project_id": "mynotes-mevhen",
+    "storage_bucket": "mynotes-mevhen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876036184844:android:d8b05f9c50bdb94c22c729",
+        "android_client_info": {
+          "package_name": "ua.malysh.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876036184844-ltk6f8tumm09v59ubom5mmt3r9ua139i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7EXA0vnEPFFBBNFjKrfoYgOAVAH_x-4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876036184844-ltk6f8tumm09v59ubom5mmt3r9ua139i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876036184844-6i7eea8nsjup8ban0cb28cod22fluad2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ua.malysh.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
